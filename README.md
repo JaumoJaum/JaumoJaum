@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou o João Grippa (@JaumoJaum)
+- Olá, eu sou o João Grippa (@JaumoJaum)
 - Sou de São José dos Campos
 - Estou cursando Ciência da Computação, em busca de estágio e oportunidades
 - Desenvolvedor de Software
