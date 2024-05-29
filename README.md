@@ -10,14 +10,9 @@ function main() {
 
 main();
 ```
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaumoJaum&theme=maroongold&show_icons=true&hide_border=true&count_private=true"/>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaumojaum&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="jaumojaum github stats"/>
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaumojaum&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="jaumojaum github stats"/>
-</a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaumoJaum&theme=maroongold&show_icons=true&hide_border=true&layout=compact"/>
 
 <!---
 JaumoJaum/JaumoJaum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
