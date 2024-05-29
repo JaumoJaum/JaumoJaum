@@ -1,13 +1,7 @@
-```function main() {
-    let name = 'Rafael Carneiro';
-    let acknowledgements = 'Software Engineer';
-
-    let location = 'Fortaleza, Ceara, Brazil';
-    let company = 'O2D - On Demand Development';
-}
-```
-
-main();
+- Olá, eu sou o João Grippa (@JaumoJaum)
+- Sou de São José dos Campos
+- Estou cursando Ciência da Computação, em busca de oportunidades
+- Desenvolvedor de Software
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaumojaum&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="jaumojaum github stats"/>
