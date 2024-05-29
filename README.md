@@ -1,13 +1,15 @@
 <h1>About me<h1>
 
-```javascript
-function main() {
-    let name = 'João Grippa (@JaumoJaum)';
-    let title = 'Software Developer';
+```rust
+fn main() {
+    let name = 'Rafael Carneiro';
+    let acknowledgements = 'Software Engineer';
 
-    let location = 'São José dos Campos';
-    let education = 'Studying Computer Science, seeking opportunities';
+    let location = 'Fortaleza, Ceara, Brazil';
+    let company = 'O2D - On Demand Development';
 }
+
+```
 
 main();
 ```
