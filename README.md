@@ -11,9 +11,6 @@ fn main() {
 
 ```
 
-main();
-```
-
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaumojaum&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="jaumojaum github stats"/>
 </a>
