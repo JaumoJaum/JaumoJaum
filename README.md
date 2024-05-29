@@ -4,9 +4,8 @@
 function main() {
     let name = 'João Grippa (@JaumoJaum)';
     let title = 'Software Developer';
-
     let location = 'São José dos Campos';
-    let education = 'Studying Computer Science, seeking opportunities';
+    let education = 'CS student seeking opportunities';
 }
 
 main();
