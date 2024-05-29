@@ -9,7 +9,6 @@ function main() {
     let education = 'Studying Computer Science, seeking opportunities';
 }
 
-main();
 ```
 
 <a href="https://github.com/Gurupreet">
