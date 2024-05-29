@@ -1,6 +1,7 @@
 <h1>About me<h1>
 
-```function main() {
+```javascript
+function main() {
     let name = 'João Grippa (@JaumoJaum)';
     let title = 'Software Developer';
 
