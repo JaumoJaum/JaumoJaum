@@ -1,7 +1,15 @@
-- Olá, eu sou o João Grippa (@JaumoJaum)
-- Sou de São José dos Campos
-- Estou cursando Ciência da Computação, em busca de oportunidades
-- Desenvolvedor de Software
+<h1>About me<h1>
+
+```function main() {
+    let name = 'João Grippa (@JaumoJaum)';
+    let title = 'Software Developer';
+
+    let location = 'São José dos Campos';
+    let education = 'Studying Computer Science, seeking opportunities';
+}
+
+main();
+```
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaumojaum&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="jaumojaum github stats"/>
