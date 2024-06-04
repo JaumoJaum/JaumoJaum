@@ -2,7 +2,7 @@
 
 
 
-<div widget="80rem">
+<div widget="20p">
 
 ```javascript
 function main() {
