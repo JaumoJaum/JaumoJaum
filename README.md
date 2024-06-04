@@ -2,7 +2,7 @@
 
 ```javascript
 
-<div widget="90rem">
+<div widget="80rem">
 function main() {
     let name = 'João Grippa (@JaumoJaum)';
     let title = 'Software Developer';
