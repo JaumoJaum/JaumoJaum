@@ -1,6 +1,8 @@
 <h1>About me<h1>
 
 ```javascript
+
+<div widget="90rem">
 function main() {
     let name = 'João Grippa (@JaumoJaum)';
     let title = 'Software Developer';
@@ -10,6 +12,8 @@ function main() {
 
 main();
 ```
+</div>
+
 <div>
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=JaumoJaum&theme=slateorange&show_icons=true&hide_border=true&count_private=true"/>
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaumoJaum&theme=slateorange&show_icons=true&hide_border=true&layout=compact"/>
