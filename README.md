@@ -1,8 +1,10 @@
 <h1>About me<h1>
 
-```javascript
+
 
 <div widget="80rem">
+
+```javascript
 function main() {
     let name = 'João Grippa (@JaumoJaum)';
     let title = 'Software Developer';
